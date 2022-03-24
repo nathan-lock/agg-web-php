@@ -1,0 +1,13 @@
+{
+  "name": "test-webite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.1.1",
+    "jquery": "^3.6.0",
+    "lightbox2": "^2.11.3",
+    "sendgrid": "^5.2.3",
+    "sweetalert2": "^11.3.3"
+  }
+}
